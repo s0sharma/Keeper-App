@@ -5,4 +5,4 @@ This is a Google keep clone. This Keeper App uses React Components, Hooks, State
 
 ## Demo
 
-![Keeper](/keeper.png)
+![Keeper](/Keeper.png)
